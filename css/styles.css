@@ -1,0 +1,168 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto Slab', sans-serif;
+}
+
+h1 {
+  margin: 62px auto 0 auto;
+  font-size: 4.375rem;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+  font-size: 1.8rem;
+  font-family: 'Indie Flower', cursive;
+  font-weight: normal;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+  color: #40514E;
+}
+
+a {
+  color: #11999E;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+hr {
+  width: 3%;
+  border-color: #dadada;
+  border-style: dotted none none;
+  border-width: 5px;
+  clear: both;
+}
+
+.top {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+  position: relative;
+}
+
+.bottom {
+  background-color: #66BFBF;
+}
+
+.top-cloud {
+  width: 10%;
+  position: absolute;
+  right: 350px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  width: 10%;
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.mountain {
+  position: relative;
+  top: 4px;
+}
+
+.profile-pic {
+  width: 25%;
+}
+
+.coding-image {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+  position: relative;
+  top: 10px;
+}
+
+.inspire-image {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+  position: relative;
+  top: 10px;
+}
+
+.contact-image {
+  width: 5%;
+}
+
+.profile {
+  width: 50%;
+  margin: 50px auto;
+}
+
+.skills {
+  margin: 50px auto;
+}
+
+.contact-me {
+  margin: 50px auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 33.2px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contact-h3 {
+  margin: 33.2px auto;
+}
+
+.contact-text {
+  width: 40%;
+  margin: 33.2px auto 53.2px;
+}
+
+.footer-text {
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+  padding-top: 30px;
+}
+
+.copyright-text {
+  color: #EAF6F6;
+  font-size: 0.8rem;
+  padding-top: 30px;
+  padding-bottom: 5px;
+}
+
+.footer-link {
+  padding-left: 20px;
+  padding-right: 20px;
+  text-decoration: none;
+}
+.copyright-link {
+  text-decoration: none;
+}
+
+.butn {
+  background: #11cdd4;
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #30e3cb;
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
